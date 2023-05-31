@@ -18,7 +18,7 @@ export const StyledButton = styled.button<iStyledButtonProps>`
         switch(buttonSize){
             case 'lg':
                 return css`
-                padding: 0 2.5rem;
+                padding: 0rem 1.5rem;
                 width: 220px;
                 height: 56px;
                 font-weight: 500;
