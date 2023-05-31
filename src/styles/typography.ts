@@ -16,13 +16,13 @@ export const StyledTitle = styled(BaseTitle)`
         `;
       case "sm":
         return css`
-          font-size: 16px;
+          font-size: 18px;
         `;
     }
   }}
 `
 export const StyledParagraph = styled.p`
-     font-family: "DM Sans", sans-serif;
+     font-family: "Glory", sans-serif;
      font-weight: 400;
      color: #383A47;
 

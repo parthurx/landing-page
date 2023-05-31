@@ -13,7 +13,7 @@ export const StyledButton = styled.button<iStyledButtonProps>`
     gap: .6rem;
     color: ${({theme}) => theme.colors.neutral};
     font-family: "DM Sans", sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     ${({buttonSize}) => {
         switch(buttonSize){
             case 'lg':

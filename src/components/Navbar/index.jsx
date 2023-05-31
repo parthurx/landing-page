@@ -74,7 +74,7 @@ const Navbar = () => {
           >
             Login
           </StyledTitle>
-          <StyledButton buttonSize="md">Get Started Free</StyledButton>
+          <StyledButton buttonSize="md">Comece grátis</StyledButton>
         </div>
         <div className="hamburger">
           <Hamburger
