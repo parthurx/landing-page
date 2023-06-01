@@ -4,7 +4,7 @@ interface iBaseTitleProps {
   children: React.ReactNode;
   tag: "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
   className: string;
-  fontFamily: string;
+  fontFamily?: string;
   fontSize: "lg" | "md" | "sm";
   fontWeight: 400 | 500 | 700;
 }
